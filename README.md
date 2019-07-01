@@ -42,4 +42,4 @@ When the image it doesn't have a shape or square then I just need to use object-
 5. <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">A Complete Guide to Flexbox</a>
 6. <a href="https://css-tricks.com/almanac/properties/o/object-fit/" target="_blank">Object-fit</a>
 7. <a href="https://css-tricks.com/almanac/properties/t/transform/" target="_blank">CSS transform property</a>
-8. <a href="https://ya-webdesign.com/explore/tesla-png/" target="_blank">Tesla png</a>
+8. <a href="https://www.stickpng.com/cat/transport/cars/tesla?page=1" target="_blank">Tesla png</a>
