@@ -7,7 +7,7 @@ In this project I will build nice profile card. Manipulate on backgrounds and cr
 
 * [Link to project hosted on Netlify](https://card-profile-kanjamad.netlify.com/)
 
-![website-gif](images/card.gif "website-gif")
+![website-gif](images/car.gif "website-gif")
 
 
 ### Viewport Units
